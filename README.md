@@ -1,3 +1,7 @@
+![images_diabetics](https://github.com/user-attachments/assets/4bd0faf9-b584-484b-98bf-c5e7e8dd21f1)
+
+
+
 Early Diabetic Prediction Using Symptoms
 
 Problem Statement
