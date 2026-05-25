@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+openrouter_key.env
+*.env
